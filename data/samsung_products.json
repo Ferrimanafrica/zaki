@@ -1,0 +1,29 @@
+{
+  "category": "Samsung",
+  "products": [
+    {
+      "name": "Samsung Galaxy A07 6.7\" 4GB RAM/128GB ROM - Black",
+      "price_naira": 165000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/94/1856814/1.jpg?4694"
+    },
+    {
+      "name": "Samsung Galaxy A07 6.7\" 4GB RAM/64GB ROM - Light Violet",
+      "price_naira": 140000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/23/4651914/1.jpg?4324"
+    },
+    {
+      "name": "Samsung Galaxy A07 6.7\" 4GB RAM/128GB ROM - Black",
+      "price_naira": 165000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/94/1856814/1.jpg?4694"
+    },
+    {
+      "name": "Samsung Galaxy A07 6.7\" 4GB RAM/64GB ROM - Light Violet",
+      "price_naira": 140000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/23/4651914/1.jpg?4324"
+    }
+  ]
+}

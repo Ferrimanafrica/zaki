@@ -1,0 +1,29 @@
+{
+  "category": "iPhone",
+  "products": [
+    {
+      "name": "Apple iPhone 12 Pro Max - 6.7-Inch - 128GB ROM, 6GB RAM - iOS 14",
+      "price_naira": 690000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/5157252/1.jpg?1082"
+    },
+    {
+      "name": "Apple iPhone 16 Plus 5G - 6.7\" - 128GB ROM - 8GB RAM - Single SIM - Pink",
+      "price_naira": 1300000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/13/3618114/1.jpg?3730"
+    },
+    {
+      "name": "Apple iPhone 12 Pro Max - 6.7-Inch - 128GB ROM, 6GB RAM - iOS 14",
+      "price_naira": 690000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/56/5157252/1.jpg?1082"
+    },
+    {
+      "name": "Apple iPhone 16 Plus 5G - 6.7\" - 128GB ROM - 8GB RAM - Single SIM - Pink",
+      "price_naira": 1300000,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/13/3618114/1.jpg?3730"
+    }
+  ]
+}

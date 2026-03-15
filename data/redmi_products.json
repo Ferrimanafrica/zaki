@@ -1,0 +1,29 @@
+{
+  "category": "Redmi",
+  "products": [
+    {
+      "name": "Redmi 15C 6.9'' 4GB RAM/128GB ROM Android 15 - Green",
+      "price_naira": 153499,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/3782914/1.jpg?8148"
+    },
+    {
+      "name": "Xiaomi Redmi A5 - 6.88\" 3GB RAM/64GB ROM - Black",
+      "price_naira": 109706,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/76/9732804/1.jpg?1640"
+    },
+    {
+      "name": "Redmi 15C 6.9'' 4GB RAM/128GB ROM Android 15 - Green",
+      "price_naira": 153499,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/34/3782914/1.jpg?8148"
+    },
+    {
+      "name": "Xiaomi Redmi A5 - 6.88\" 3GB RAM/64GB ROM - Black",
+      "price_naira": 109706,
+      "currency": "NGN",
+      "image": "https://ng.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/76/9732804/1.jpg?1640"
+    }
+  ]
+}
